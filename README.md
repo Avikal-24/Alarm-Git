@@ -12,7 +12,7 @@ git status                    % tells which files are added to index and are rea
 
 git add (name of file)        % lets us add files to index
 
-git add -A                    % to add all the files in 1 go
+git add .                    % to add all the files in 1 go
 
 git commit -m"(message)"      % recording snapshot of the repo at current time
 
